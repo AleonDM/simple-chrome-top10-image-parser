@@ -1,4 +1,4 @@
 const CONFIG = {
-    API_KEY: 'AIzaSyA8AQpBiSCvVr9AJvUKY5zTgXq4PYO8sA4',
-    SEARCH_ENGINE_ID: '0774ef94aa52043f8'
+    API_KEY: 'your',
+    SEARCH_ENGINE_ID: 'your'
 };
